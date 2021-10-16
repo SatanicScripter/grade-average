@@ -1,3 +1,4 @@
+//By Satanic Scripter
 #include <iostream>
 using namespace std;
 
